@@ -2,7 +2,7 @@
 
 This was the final assessment on the "Getting Started with Deep Learning" course DLI Nvidia 
 
-I learned about surface level Convolutional Neural Networks and NLP models. This course was done through PyTorch and Jupyter notebook. 
+I learned about surface level Convolutional Neural Networks and NLP models. This course was done through PyTorch and Jupyter notebook. My model was able to reach a `94%` accuracy.
 
 # Dataset/Model 
 
